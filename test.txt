@@ -1,4 +1,3 @@
 test
 add new info
 testing git gui
-git remote push
